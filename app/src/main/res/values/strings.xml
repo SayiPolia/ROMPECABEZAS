@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RompeCabezas</string>
+    <string name="textoinicio">Bienvenido al juego,¡Ingrese su nombre para comenzar!</string>
+</resources>
